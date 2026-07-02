@@ -9,7 +9,7 @@
   <a href="https://void-rp.ru">
     <img src="https://img.shields.io/badge/Сайт-void--rp.ru-6d28d9?style=for-the-badge&logo=firefox&logoColor=white" alt="Сайт" />
   </a>
-  <a href="https://github.com/VoidRP">
+  <a href="https://github.com/VOIDRP-MINECRAFT">
     <img src="https://img.shields.io/badge/Организация-VoidRP-181717?style=for-the-badge&logo=github&logoColor=white" alt="Организация" />
   </a>
 </p>
@@ -27,5 +27,5 @@
 
 <p align="center">
   <a href="https://void-rp.ru">void-rp.ru</a> ·
-  <a href="https://github.com/VoidRP">VoidRP на GitHub</a>
+  <a href="https://github.com/VOIDRP-MINECRAFT">VoidRP на GitHub</a>
 </p>
